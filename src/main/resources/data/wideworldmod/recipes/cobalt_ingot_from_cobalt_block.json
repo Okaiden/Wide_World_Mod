@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cobalt_ingot",
+  "ingredients": [
+    {
+      "item": "wideworldmod:cobalt_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "wideworldmod:cobalt_ingot"
+  }
+}

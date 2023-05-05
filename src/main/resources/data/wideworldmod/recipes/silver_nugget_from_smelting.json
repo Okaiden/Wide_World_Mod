@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "wideworldmod:silver_pickaxe"
+    },
+    {
+      "item": "wideworldmod:silver_shovel"
+    },
+    {
+      "item": "wideworldmod:silver_axe"
+    },
+    {
+      "item": "wideworldmod:silver_hoe"
+    },
+    {
+      "item": "wideworldmod:silver_sword"
+    },
+    {
+      "item": "wideworldmod:silver_katana"
+    },
+    {
+      "item": "wideworldmod:silver_spear"
+    },
+    {
+      "item": "wideworldmod:silver_helmet"
+    },
+    {
+      "item": "wideworldmod:silver_chestplate"
+    },
+    {
+      "item": "wideworldmod:silver_leggings"
+    },
+    {
+      "item": "wideworldmod:silver_boots"
+    },
+    {
+      "item": "wideworldmod:silver_horse_armor"
+    }
+  ],
+  "result": "wideworldmod:silver_nugget"
+}

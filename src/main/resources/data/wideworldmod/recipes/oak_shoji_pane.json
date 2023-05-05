@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_shoji_pane",
+  "key": {
+    "#": {
+      "item": "wideworldmod:oak_shoji_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 16,
+    "item": "wideworldmod:oak_shoji_pane"
+  }
+}

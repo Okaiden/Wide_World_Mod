@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "wideworldmod:block/birch_pane_top",
+    "pane": "wideworldmod:block/birch_shoji"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "wideworldmod:block/dark_oak_shoji"
+  }
+}

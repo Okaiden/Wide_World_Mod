@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wideworldmod:block/dark_oak_shoji"
+  }
+}

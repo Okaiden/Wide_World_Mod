@@ -1,0 +1,7 @@
+{
+  "parent": "wideworldmod:block/template_fence_post",
+  "textures": {
+    "particle": "minecraft:block/birch_log",
+    "texture": "wideworldmod:block/birch_log_fence"
+  }
+}

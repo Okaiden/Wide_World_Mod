@@ -1,0 +1,6 @@
+{
+  "parent": "wideworldmod:block/template_fence_side_south",
+  "textures": {
+    "texture": "wideworldmod:block/crimson_hyphae_fence"
+  }
+}

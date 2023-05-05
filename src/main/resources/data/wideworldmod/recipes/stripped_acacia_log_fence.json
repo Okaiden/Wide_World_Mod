@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "log_fence",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "L": {
+      "item": "minecraft:stripped_acacia_log"
+    }
+  },
+  "pattern": [
+    "LSL",
+    "LSL"
+  ],
+  "result": {
+    "count": 3,
+    "item": "wideworldmod:stripped_acacia_log_fence"
+  }
+}

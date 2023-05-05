@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "wideworldmod:block/jungle_pane_top",
+    "pane": "wideworldmod:block/jungle_shoji"
+  }
+}

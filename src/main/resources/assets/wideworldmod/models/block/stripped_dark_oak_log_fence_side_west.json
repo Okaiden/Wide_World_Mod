@@ -1,0 +1,6 @@
+{
+  "parent": "wideworldmod:block/template_fence_side_west",
+  "textures": {
+    "texture": "wideworldmod:block/stripped_dark_oak_log_fence"
+  }
+}

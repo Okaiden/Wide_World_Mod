@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "cobalt_ingot",
+  "key": {
+    "#": {
+      "item": "wideworldmod:cobalt_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "wideworldmod:cobalt_ingot"
+  }
+}

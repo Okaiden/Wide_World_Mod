@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "wideworldmod:block/woodcutter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "wideworldmod:block/woodcutter"
+    },
+    "facing=south": {
+      "model": "wideworldmod:block/woodcutter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wideworldmod:block/woodcutter",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "wideworldmod:block/template_fence_side_east",
+  "textures": {
+    "texture": "wideworldmod:block/stripped_warped_stem_fence"
+  }
+}

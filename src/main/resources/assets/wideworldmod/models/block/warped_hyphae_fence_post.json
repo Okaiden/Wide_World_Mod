@@ -1,0 +1,7 @@
+{
+  "parent": "wideworldmod:block/template_fence_post",
+  "textures": {
+    "particle": "minecraft:block/warped_hyphae",
+    "texture": "wideworldmod:block/warped_hyphae_fence"
+  }
+}

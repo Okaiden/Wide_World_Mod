@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "wideworldmod:cobalt_pickaxe"
+    },
+    {
+      "item": "wideworldmod:cobalt_shovel"
+    },
+    {
+      "item": "wideworldmod:cobalt_axe"
+    },
+    {
+      "item": "wideworldmod:cobalt_hoe"
+    },
+    {
+      "item": "wideworldmod:cobalt_sword"
+    },
+    {
+      "item": "wideworldmod:cobalt_katana"
+    }
+  ,{
+      "item": "wideworldmod:cobalt_spear"
+    },
+    {
+      "item": "wideworldmod:cobalt_helmet"
+    },
+    {
+      "item": "wideworldmod:cobalt_chestplate"
+    },
+    {
+      "item": "wideworldmod:cobalt_leggings"
+    },
+    {
+      "item": "wideworldmod:cobalt_boots"
+    },
+    {
+      "item": "wideworldmod:cobalt_horse_armor"
+    }
+  ],
+  "result": "wideworldmod:cobalt_nugget"
+}

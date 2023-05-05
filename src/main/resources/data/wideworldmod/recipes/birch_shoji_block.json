@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_shoji_block",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:birch_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "SSS",
+    "PSP"
+  ],
+  "result": {
+    "count": 2,
+    "item": "wideworldmod:birch_shoji_block"
+  }
+}

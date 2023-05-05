@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "edge": "wideworldmod:block/bamboo_pane_top",
+    "pane": "wideworldmod:block/bamboo_shoji"
+  }
+}

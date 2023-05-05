@@ -1,0 +1,6 @@
+{
+  "parent": "wideworldmod:block/template_fence_inventory",
+  "textures": {
+    "texture": "wideworldmod:block/stripped_spruce_log_fence"
+  }
+}

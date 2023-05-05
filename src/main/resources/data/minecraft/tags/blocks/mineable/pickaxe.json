@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#wideworldmod:silver_ores",
+    "#wideworldmod:cobalt_ores",
+    "wideworldmod:silver_block",
+    "wideworldmod:cobalt_block"
+  ]
+}
